@@ -1,10 +1,14 @@
 ### How to run
 To run the code, go to the terminal and run:
-`python -m package_sorter --l <length value> --h <height value> --w <width value> --m <mass value>`
+```
+python -m package_sorter --l <length value> --h <height value> --w <width value> --m <mass value>
+```
 
 ### How to test
 Run
-`python -m unittest`
+```
+python -m unittest
+```
 
 ### Objective
 
